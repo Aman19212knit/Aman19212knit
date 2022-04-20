@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aman Pratap Singh
-- 👀 I’m interested in Python/Machine learning/Web development
-- 🌱 I’m currently learning Nachos
+- 👀 I’m interested in Web development/Blockchain
 - 📫 How to reach me aman.19212@knit.ac.in
 
 <!---
