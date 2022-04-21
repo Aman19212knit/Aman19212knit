@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Aman Pratap Singh
-- 👀 I’m interested in Web development/Blockchain
-- 📫 How to reach me aman.19212@knit.ac.in
+#Ugaoo
+A simple Machine Learning based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
 
-<!---
-Aman19212knit/Aman19212knit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#Deployement
+This website is deployed on heroku. You can access it here https://ugaoo.herokuapp.com/
